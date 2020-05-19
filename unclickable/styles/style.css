@@ -29,6 +29,6 @@ form {
 
 body {
     height: 100vh;
-    width: 100vh;
+    width: 100vw;
     background: repeating-linear-gradient(to left, red, orange, yellow, green);
 }
